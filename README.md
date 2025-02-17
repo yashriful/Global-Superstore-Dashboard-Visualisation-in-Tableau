@@ -2,7 +2,7 @@
 
 # 🌍 Global Superstore Dashboard Visualization 📊
 
-![Tableau Dashboard](https://your-image-url.com/dashboard-preview.png)  
+[Tableau Dashboard](https://public.tableau.com/app/profile/yashriful.raka/viz/globalsuperstoredashboardyir/Dashboard1)  
 
 ## 🚀 Overview  
 This project presents a **Global Superstore Dashboard** using **Tableau** to analyze key business metrics. The dashboard provides interactive insights into **sales performance, order priorities, shipping costs, and profit margins** across different regions and categories.
@@ -21,6 +21,11 @@ This project presents a **Global Superstore Dashboard** using **Tableau** to ana
 
 ### 🗺️ Sales by Region  
 ![image](https://github.com/user-attachments/assets/291ae312-d496-49ff-8e6e-867b6fe72604)
+
+### 🗺️ Sales by Region  
+![Sales by Region](https://your-image-url.com/sales-region.png)  
+
+The **Sales by Region** chart provides a clear breakdown of total sales across different global regions. This visualization helps in identifying high-performing regions and areas that may require strategic improvements. **Western Europe and the United States** show the highest sales, while regions like **Central Africa and Southern Africa** have relatively lower sales figures.
 
 
 ### 📦 Order Priority Breakdown  
